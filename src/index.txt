@@ -8,7 +8,8 @@ sfsfsfs
 
 branch1 changes
 
+mergeed changes
 mergeed changes master chagess
+mergeed changes branch1 change added
 
-new master branch changesss
-
+this is the change after rebase run
